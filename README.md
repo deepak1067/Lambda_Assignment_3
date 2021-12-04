@@ -5,6 +5,6 @@
 >>Sample Input:
 
 >The lambda has too many string arguments.
->>Sample Output:
+>>Sample Output:-
 
 >THELAMBDAHASTOOMANYSTRINGARGUMENTS.
